@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(jec-jabalpur-placement.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box{
+    width: 300px;
+    height: 350px;
+    background-color:black;
+    text-align: center;
+    color:white;
+  margin-left: 16%;
+  margin-top: 22%;
+  border-radius: 20%;
+}
+.inp1{
+    font-size: 20px;
+    border: none;
+    margin: 4px;
+    background-color:black;
+    color: aliceblue;
+    border-bottom: 3px solid white;
+    margin-top: 40px;
+
+}
+.text{
+    font-size: 20px;
+    margin-top: 30px;
+}
+button{
+    height: 44px;
+    width: 250px;
+    background-color: aqua;
+    color: black;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 20%;
+}
+p{
+    margin-top: 30px;
+    font-size:20px;
+
+
+}
+p span{
+    color: aqua;}
+    button:hover{
+        background-color: aliceblue;
+        border: none;
+    }
